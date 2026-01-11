@@ -41,27 +41,6 @@ https://www.kaggle.com/datasets/mitishaagarwal/patient
 **Table Name:** `ps_data`\
 **Schema:** `patient_survival`
 
-### Key Columns Used
-
-  --------------------------------- -------------------------------------
-  Column Name                        Description
-  --------------------------------- ------------------------------------
-  hospital_death                     Indicates whether the patient died
-                                     (1 = Yes, 0 = No)
-
-  age                                Age of patient
-
-  ethnicity                          Patient ethnicity
-
-  icu_admit_source                   Source of ICU admission
-
-  apache_3j_diagnosis                Clinical diagnosis code
-
-  d1_glucose_max                     Maximum glucose level (Day 1)
-
-  d1_sysbp_min                       Minimum systolic BP (Day 1)
-  -----------------------------------------------------------------------
-
 ------------------------------------------------------------------------
 
 ## 🔧 Data Cleaning (SQL)
